@@ -1,10 +1,7 @@
 ---
 layout: post
 title: How to view SQLAzure deadlocks
-category: sqlazure
-comments: true
-tags:
-    - sqlazure
+tags:   sqlazure
 ---
 
 Deadlocks are captured automatically  in Azure Database.Below is how you can view  them
