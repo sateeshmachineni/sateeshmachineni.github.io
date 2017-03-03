@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DBCC Clone Database
-categories: [sqlserver]
+tags: [sqlserver]
 ---
 
 Imagine you have to troubleshoot slow running queries on a particular client database remotely.The data is sensitive and client can’t share his database..To help in this cases,
