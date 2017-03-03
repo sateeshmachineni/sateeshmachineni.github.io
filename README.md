@@ -1,9 +1,9 @@
-# Melyanna.github.io
+
 
 This is the repository of my Jekyll/GitHub blog.
-The template is based on [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll) by [Dean Attali](http://deanattali.com/aboutme#contact).
+The template is based on [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll) by [Dean Attali](http://deanattali.com/aboutme#contact).I have forked this from Melyanna.github.io
 
-I have left below the original instructions and notes for this theme.
+below are the original instructions and notes for this theme.
 
 ___
 =======
