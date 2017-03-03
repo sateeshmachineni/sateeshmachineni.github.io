@@ -8,7 +8,7 @@ This blog uses [google search](http://google.com/cse).
 
 <script>
   (function() {
-    var cx = '005036231896853323962:4xmqe7fiq7q';
+    var cx = '003684531357059188021:g86d4ejaznu';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
