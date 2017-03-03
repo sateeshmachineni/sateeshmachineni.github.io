@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Database mssqlsystemresource is being recovered. Waiting until recovery is finished
+tags: sqlserver
 ---
 
 
