@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://melyanna.github.io"
+url: "http://sateeshmachineni.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Tea time
+title: Blog
 
 # Short description of your site
-description: Blog, scrapbook, and virtual space for my experiments
+
 
 # --- Navigation bar options --- #
 
@@ -28,13 +28,13 @@ navbar-links:
   Archive:
       - Tag cloud: "tags"
       - Table of content: "toc"
-  Website: "http://melyanna.net/"
+
   Subscribe: "subscribe"
-  ?: "search"
+  Search: "search"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar/melyanna.png"
+
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -45,9 +45,9 @@ avatar: "/img/avatar/melyanna.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Melyanna
-  email: "melyanna@tutanota.com"
-  facebook: yourname  # eg. daattali
+  name: Sateesh
+  email: "sateeshmach@outlook.com"
+  facebook: sateeshmachineni  # eg. daattali
   github: melyanna    # eg. daattali
   twitter: OoMelyannaoO   # eg. daattali
   reddit: yourname    # eg. daattali
@@ -70,9 +70,9 @@ footer-links-active:
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
-  stackoverflow: false
+  stackoverflow: true
   instagram: true
   snapchat: false
   youtube: false
@@ -84,18 +84,18 @@ share-links-active:
   twitter: true
   facebook: true
   google: true
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "melyanna.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
-disqus: "melyannagithubio"
+disqus: "sateeshmachineni"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
