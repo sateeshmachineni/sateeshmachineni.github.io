@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Difference between TraceFlags 1204 and 1222
-category: SQLServer
-comments: true
-tags:
-    - sqlserver
-    - deadlocks
+tags:   sqlserver
 ---
  
  I did a quick search to know what are the differences,but i am unable to find any...So thought of posting this 
