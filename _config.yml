@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Random thoughts
+title: Home
 
 # Short description of your site
 
@@ -23,7 +23,7 @@ title: Random thoughts
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: ""
+  resume: "resume"
   About Me: "about"
   Archive:
       - Tag cloud: "tags"
