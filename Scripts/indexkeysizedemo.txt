@@ -1,0 +1,35 @@
+
+---run below query on SQLServer 2012/2014/2008
+
+create table dbo.test(
+id int,
+col1 varchar(1700)
+)
+
+create index nci_test on dbo.test
+(col1)
+include(id)
+
+insert into dbo.test
+values (1,replicate('a',1000))
+
+--run below query on SQL2016
+
+
+drop table dbo.test
+create table dbo.test(
+id int,
+col1 varchar(1705)
+)
+
+create index nci_test on dbo.test
+(col1)
+include(id)
+
+
+
+insert into dbo.test
+values (1,replicate('a',1700))
+
+insert into dbo.test
+values (1,replicate('a',1701))
