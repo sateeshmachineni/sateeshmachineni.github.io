@@ -62,7 +62,7 @@ The index 'nci_test' has maximum length of 1705 bytes.
 For some combination of large values, the insert/update operation will fail.
 
 
-You can download the demo scripts used [here](/scripts/indexkeysizedemo.txt)
+You can download the demo scripts used [here](Scripts/indexkeysizedemo.txt)
 
 
 
