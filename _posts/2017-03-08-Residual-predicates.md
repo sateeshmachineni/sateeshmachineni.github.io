@@ -6,11 +6,10 @@ tags: [sqlserver]
 
 Residual in plain english means 
 
-<b>residual  </b>
 >adjective: residual  
 
    > remaining after the greater part or quantity has gone.
-   > "the withdrawal of residual occupying forces"
+  
 
 SQLServer residual predicates also mean the same thing.If you have more than 1 predicate  in a query,SQLServer filters most of the data using
 one predicate and uses the second predicate to filter out each row in left over result set ...
