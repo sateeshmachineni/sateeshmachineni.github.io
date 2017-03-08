@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issues with redisual predicates in SQLServer
+title: Issues with residual predicates in SQLServer
 tags: [sqlserver]
 ---
 
