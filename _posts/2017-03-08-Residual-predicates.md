@@ -49,7 +49,7 @@ select  * from #test2 where id=99 and name='99a'
 
 Below is the execution plan of that query
 
-<img  src="/img/rs1.png"/>
+<img  src="/img/rs1.PNG"/>
 
 As you can observe,we could see only one predicate
 
@@ -61,7 +61,7 @@ select  * from #test2 where id>=99 and name='99a'
 
 Below is the execution plan of the query
 
-<img  src="/img/rs2.png"/>
+<img  src="/img/rs2.PNG"/>
 
 
 As you can see,we have to predicates  
