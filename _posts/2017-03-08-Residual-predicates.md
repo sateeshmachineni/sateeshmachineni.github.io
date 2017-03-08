@@ -74,9 +74,10 @@ SQLServer first did a seek  using `id>=99`.The result set obtained from first pr
 
 Here `99a` is called residual predicate
 
-The impact of residual predicate can be very huge ,if the first predicate is not selective enough.
+The impact of residual predicate can be very huge ,if the first predicate is not selective enough.In our case,resiudal predicate had only one row.Imagine  the first predicate(>=99) matched some 1 lakh rows,Now residual predicate(in our case `99a` had to evaluated against these 1 lakh rows.That would be cubersome and index we have is not worthy.
 
-That's pretty much about residual predicates
+
+That's pretty much about residual predicates  .
 
 
 References:   
