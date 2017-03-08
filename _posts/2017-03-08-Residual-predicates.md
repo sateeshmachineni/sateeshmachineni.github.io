@@ -81,7 +81,7 @@ That's pretty much about residual predicates
 
 
 References:   
-http://sqlblog.com/blogs/rob_farley/archive/2011/05/19/covering-schmuvvering-when-a-covering-index-is-actually-rubbish.aspx
+[A new superpower for SQL query tuners – Number of Rows Read ](http://sqlblog.com/blogs/rob_farley/archive/2011/05/19/covering-schmuvvering-when-a-covering-index-is-actually-rubbish.aspx)
 
 
 
