@@ -70,11 +70,11 @@ As you can see,we have to predicates
 
 What happened here ..? how to infer this predicates..
 
-SQLServer first did a seek  using `id>=99`.The result set obtained from first predicate is again filtered out using  `name=99a' 
+SQLServer first did a seek  using `id>=99`.The result set obtained from first predicate is again filtered out using  `name=99a`
 
 Here `99a` is called residual predicate
 
-The impact of residual predicate can be very huge ,if the first predicate is not selective enough.In our case,resiudal predicate had only one row.Imagine  the first predicate(>=99) matched some 1 lakh rows,Now residual predicate(in our case `99a` had to evaluated against these 1 lakh rows.That would be cubersome and index we have is not worthy.
+The impact of residual predicate can be very huge ,if the first predicate is not selective enough.In our case,resiudal predicate had only one row.Imagine  the first predicate(>=99) matched some 1 lakh rows,Now residual predicate(in our case `99a`) had to evaluated against these 1 lakh rows.That would be cubersome and index we have is not worthy.
 
 
 That's pretty much about residual predicates  .
