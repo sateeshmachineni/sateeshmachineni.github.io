@@ -10,7 +10,7 @@ Changing SQLdatabase Password is very easy.you have to just log into the portal 
 
 All we have to do is click reset password,it won't ask for old password.Now that we know,how to change password.Let's see a few best practices with Logins in SQLAzure database.
 
-If you can observe the screenshot,i am in the server tab.This is because,Azure groups our databases under one logical server.
+If you can observe the screenshot,i am in the server tab while changing the password.This is because,Azure groups our databases under one logical server.
 
 SQL Azure is database as a service,there is no concept of server,the logical server we just used was provided for ease of use..
 
