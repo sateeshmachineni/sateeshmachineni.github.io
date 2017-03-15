@@ -6,7 +6,7 @@ tags:   sqlazure
 
 Changing SQLdatabase Password is very easy.you have to just log into the portal and change new one.see below screenshot for more details
 
-<img  src="/img/changepassword.png"/>
+<img  src="/img/changepassword.PNG"/>
 
 All we have to do is click reset password,it won't ask for old password.Now that we know,how to change password.Let's see a few best practices with Logins in SQLAzure database.
 
