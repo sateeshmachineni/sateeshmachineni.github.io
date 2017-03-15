@@ -14,7 +14,7 @@ If you can observe the screenshot,i am in the server tab while changing the pass
 
 SQL Azure is database as a service,there is no concept of server,the logical server we just used was provided for ease of use..
 
-But Microsoft has few things to say about this
+But [Microsoft has few things to say](https://msdn.microsoft.com/library/ff929188.aspx) about this
 
 >As Microsoft evolves the SQL Database service and moves towards higher guaranteed SLAs you may be required to switch to the contained database user model and database-scoped firewall rules to attain the higher availability SLA
 and *higher max login rates for a given database*. Microsoft encourage you to consider such changes today.
