@@ -38,22 +38,22 @@ the above query tries to update t1 with a random value from t2(which won't work 
 
 below is the execution plan of above update
 
-<img  src="/img/spool.png"/>
+<img  src="/img/spool.PNG"/>
 
 
 As you can see,SQL tried to store data into a spool.If we check the properties of that spool,we can further see
 
-<img  src="/img/rebindsrewinds.png"/>
+<img  src="/img/rebindsrewinds.PNG"/>
 
 SQL did 99 Rewinds and only rebind,which means SQL scanned t2 only once and used that same table
 
 Now lets see execution plan for below correlated update
 
-<img  src="/img/topnsort.png"/>
+<img  src="/img/topnsort.PNG"/>
 
 When looking at properties of TOPNSORT, we can see 
 
-<img  src="/img/rebinds1.png"/>
+<img  src="/img/rebinds1.PNG"/>
 
 
 In this case,SQL did 81 rebinds (81 because of 81 mtaching rows).so for each matching value,SQL has to go to main table and get the data
