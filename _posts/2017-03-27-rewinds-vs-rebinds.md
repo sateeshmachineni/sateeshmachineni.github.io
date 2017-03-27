@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DBCC Clone Database
+title: Rewinds vs Rebinds in SQLServer
 tags: [sqlserver]
 ---
 
