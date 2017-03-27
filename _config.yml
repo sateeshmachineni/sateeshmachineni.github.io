@@ -47,12 +47,12 @@ navbar-links:
 author:
   name: Sateesh
   email: "sateeshmach@outlook.com"
-  facebook: sateeshmachineni  # eg. daattali
-  github: melyanna    # eg. daattali
-  twitter: OoMelyannaoO   # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
+  facebook:   # eg. daattali
+  github:     # eg. daattali
+  twitter:    # eg. daattali
+  reddit:     # eg. daattali
+  google-plus:    # eg. +DeanAttali or 109424658772469020925
+  linkedin:   # eg. "pub/dean-attali/8/946/143"
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
@@ -66,14 +66,14 @@ footer-links-active:
   rss: true
   facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
-  linkedin: true
+  linkedin: false
   xing: false
-  stackoverflow: true
-  instagram: true
+  stackoverflow: false
+  instagram: false
   snapchat: false
   youtube: false
   spotify: false
