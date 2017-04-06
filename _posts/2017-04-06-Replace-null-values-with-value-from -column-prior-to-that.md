@@ -45,7 +45,7 @@ outer apply
 
 This will be horribly inefficient,as this will access table 9 times...you can infer the same from below execution plan
 
-<img  src="/img/capture.PNG"/>
+<img  src="/img/Capture.PNG"/>
 
 As you can see,there are 9 rebinds,since the outer value changed everytime,SQL has to go main table to get the  value
 
