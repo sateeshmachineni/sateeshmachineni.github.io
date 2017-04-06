@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Replace null values with values from prior  not column
+title: Replace null values with values from last not null column
 tags: [tsql]
 ---
 
