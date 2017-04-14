@@ -3,6 +3,7 @@ layout: post
 title: TroubleShooting SQLAzure
 category: SQLAzure
 comments: true
+tag:  sqlazure
 ---
 
 There are many posts on the web,some what similar to lines below  
