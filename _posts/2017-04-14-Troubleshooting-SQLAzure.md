@@ -21,4 +21,6 @@ Instead they could have offered some thing on the lines like .
 
 In this series of Posts,i will try to show you troubleshooting path i follow and what kind of tools/Features are available for troubleshooting
 
-You can see all this series by clicking on SQLAzure Category
+You can see all this series by clicking on [SQLAzure](https://sateeshmachineni.github.io/tags/sqlazure/) Category
+
+
