@@ -5,9 +5,9 @@ tags:   sqlazure
 ---
 
 Many new capabilties and exiciting  were added to SQLAzure today.Few of them include  
-- SQLAgent
-- Profiler
-- Service Broker  
+- SQLAgent  
+- Profiler  
+- Service Broker   
 - Clr support
 
    and many more
