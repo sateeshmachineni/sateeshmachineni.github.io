@@ -1,10 +1,10 @@
 ---
 layout: post
-title: SQLAgent,Profiler,CLR in SQLAzure
+title: New Features :SQLAgent,Profiler,CLR in SQLAzure
 tags:   sqlazure
 ---
 
-Many new capabilties and exiciting  were added to SQLAzure today.Few of them include  
+Many new capabilties and exiciting features  were announced  for  SQLAzure today.Few of them include  
 - SQLAgent  
 - Profiler  
 - Service Broker   
