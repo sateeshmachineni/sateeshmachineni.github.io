@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ilasm and ILdasm to the rescue
-tags: [sqlserver,C#]
+tags: [sqlserver,c#]
 ---
 
 
