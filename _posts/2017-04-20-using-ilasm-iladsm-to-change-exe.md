@@ -5,11 +5,11 @@ tags: sqlserver
 ---
 
 
-Today, i was trying to learn Query store,so i took virtual lab course  and downloaded  lab files for later practice on my local machine..
+Today, i was trying to learn Query store,so i took virtual lab course  and downloaded  lab files to   practice on my local machine..
 
 Those lab files contains some `.sql` files and an executable..The idea is that ,if you run the exe,exe will run those `.sql` files .
 
-So when i ran the exe,i got below error..
+When i ran the exe on my local machine,i got below error..
 
 >Unhandled Exception: System.Data.SqlClient.SqlException: A network-related or instance-specific error occurred while 
 establishing a connection to SQL Server. The server was not found or was not accessible. 
@@ -18,7 +18,7 @@ Verify that the instance name is correct and that SQL Server is configured to al
 System.ComponentModel.Win32Exception: The network path was not found
    --- End of inner exception stack trace -
 
-since connection string is hardcoded inside EXE to
+ connection string is hardcoded inside EXE to 
 
 >Data Source=SQL2016SP1HOl;Initial Catalog=QueryStoreDemo;Integrated Security=True
 
