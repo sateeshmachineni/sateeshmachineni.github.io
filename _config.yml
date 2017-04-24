@@ -23,7 +23,6 @@ title: Home
 
 # List of links in the navigation bar
 navbar-links:
-  resume: "resume"
   About Me: "about"
   Archive:
       - Tag cloud: "tags"
