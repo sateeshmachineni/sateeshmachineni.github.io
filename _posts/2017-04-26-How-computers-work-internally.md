@@ -31,7 +31,7 @@ helped in my journey
 
 1.StackOverflow   
 2.Charles Petzold Code book  
-3.[Ben Eater Tutorials](https://www.youtube.com/user/eaterbc)  ..he has a knack for explaining things clearly and is a legend.  please [support him,if you find,his work usefull](https://www.patreon.com/beneater)   ..
+3.[Ben Eater Tutorials](https://www.youtube.com/user/eaterbc)  ..he has a knack for explaining things clearly and is a legend.  please [support him,if you find,his work usefull](https://www.patreon.com/beneater)   ..  
 5.This [tutorial by Peter Jay Salzman](http://www.dirac.org/linux/gdb/02a-Memory_Layout_And_The_Stack.php),helped me understand memory layout of a program and Stack Frames   
 
 Now i am onto studying Pointers and then raid K&R C Programming book,this book is a part of [Joel spolsky Recommedations](https://softwareengineering.stackexchange.com/a/96506/139295)
