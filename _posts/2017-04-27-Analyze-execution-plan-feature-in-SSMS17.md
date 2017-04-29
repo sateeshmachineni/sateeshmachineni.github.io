@@ -16,7 +16,7 @@ This option is not present in SSMS, to see this option,you have to right click a
 
 then SQL tries to analyze the query and presents a list of issues,that can be improved in the plan.
 
-For my plan,SQL analyzed,cardinality estimation was incorrect,you can see the same from below screenshot
+For my plan,SQL thought cardinality estimation is incorrect,you can see the same from below screenshot
 
 
 <img  src="/img/analyzeplan1.PNG"/>
