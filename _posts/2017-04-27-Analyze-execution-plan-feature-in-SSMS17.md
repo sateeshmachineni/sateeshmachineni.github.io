@@ -24,7 +24,7 @@ For my plan,SQL thought cardinality estimation is incorrect,you can see the same
 This feature seems to be half baked for this version of SSMS release,since cardinality estimates were correct for my query.Also ,other
 than checking for  cardinality estimates,this seems to do nothing...  
 
-I don't think this is the way to release new features :(..
+I don't think this is the way to release new features :(
 
 
 
