@@ -4,8 +4,7 @@ title: Ken Henderson
 tags: [random]
 ---
 
-I was trying to setup windbg to explore more about SQLServer internals.My search lead me to this book ,[The Guru's Guide to SQL Server Architecture and Internals ]
-(http://www.amazon.in/Gurus-Guide-Server-Architecture-Internals/dp/0201700476/ref=asap_bc?ie=UTF8)...I was amazed about the quality of the content
+I was trying to setup windbg to explore more about SQLServer internals.My search lead me to this book ,[The Guru's Guide to SQL Server Architecture and Internals](http://www.amazon.in/Gurus-Guide-Server-Architecture-Internals/dp/0201700476/ref=asap_bc?ie=UTF8)...I was amazed about the quality of the content
 and the way it was presented..
 
 I  wanted to know more about the author..Some searches lead me to know ,that he was one of the
