@@ -1,8 +1,11 @@
 ---
 layout: post
-title:Dynamic query
+title:Interview Q2
 tags: [sqlserver]
 ---
+
+This question was part of an interview i attended,their site,didn't allowed special characters :(  ,so posted here with a link.
+I feel good about this,as i wrote  this query in less than 30 minutes.so i kept it like this
 
 
 This should be run with results to text ,we also should change the maximum characters limitation
