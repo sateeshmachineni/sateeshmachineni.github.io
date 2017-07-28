@@ -19,3 +19,22 @@ Also you can download [SQLSERVER community edition](https://my.visualstudio.com/
 
 
 That was pretty much ,how i started learning TSQL.Sharing this in case,it helps some one
+
+
+<div class="alignleft">
+     <script type="text/javascript">
+       	amzn_assoc_ad_type = "banner";
+	amzn_assoc_marketplace = "amazon";
+	amzn_assoc_region = "US";
+	amzn_assoc_placement = "assoc_banner_placement_default";
+	amzn_assoc_campaigns = "kuft";
+	amzn_assoc_banner_type = "promotions";
+	amzn_assoc_p = "12";
+	amzn_assoc_banner_id = "07V9YHKS4HY556H67002";
+	amzn_assoc_width = "300";
+	amzn_assoc_height = "250";
+	amzn_assoc_tracking_id = "sateeshmach-20";
+	amzn_assoc_linkid = "a8aad2d64604c9f7cd833df96eab964b";
+     </script>
+     <script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1"></script>
+    </div>
