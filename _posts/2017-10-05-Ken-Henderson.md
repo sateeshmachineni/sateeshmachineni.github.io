@@ -12,9 +12,9 @@ co authors of SQLNexus .I just thought of sending a small note of thanks for his
 
 Ken is truly one of the respected authors and a good human being (which can be seen from his quote below on one of his books) ..
 
-RIP Ken Henderson 
+RIP Ken Henderson .
 
-Below is a preface from his book quoted above
+Below is a preface from his book quoted above and i believe it applies to any one in any field.
 
 >There’s a lesson to be learned here, and it has to do with the value of humility. Becoming arrogant and walling yourself off from the “little people” in the world is a fast ticket to stagnation. It’s a good way to stop growing professionally. There are no little people. The world moves too quickly not to learn all you can from whomever you can whenever you can. No matter how long I work in this business, I continue to learn from practically everyone around me—new people and old alike, experienced and inexperienced as well. I have always considered myself lucky to have worked with so many great people over the years.
 
