@@ -4,6 +4,8 @@ title: How to Learn TSQL
 tags: [sqlserver]
 ---
 
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=12&l=ur1&category=wireless&banner=1FDPWVD9KFPS2JV7CV82&f=ifr&linkID=ae3d6983b9617d459f021c2fb191aa96&t=sateeshmach-20&tracking_id=sateeshmach-20" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
 I get this question many times,so thought of creating a post about how i learned ..
 
 I found this book  [ T-SQL Fundamentals](https://www.amazon.com/T-SQL-Fundamentals-3rd-Itzik-Ben-Gan/dp/150930200X) to be very helpfull.
@@ -21,4 +23,3 @@ Also you can download [SQLSERVER community edition](https://my.visualstudio.com/
 That was pretty much ,how i started learning TSQL.Sharing this in case,it helps some one
 
 
-<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=sateeshmach-20&linkCode=ur2&linkId=3c82b1c7a4503de28236eb994f45d965&camp=1789&creative=9325&node=7072561011">Cell Phones</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=sateeshmach-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
