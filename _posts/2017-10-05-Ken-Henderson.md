@@ -22,4 +22,19 @@ Below is a preface from his book quoted above and i believe it applies to any on
 
 >And you have to remember that there is always someone out there who’s bigger and better. When you work harder at trying to hold other people back than at helping them realize their potential, you make what should be teamwork into a zero-sum game where only one party can win—everyone else, by definition, must lose. Even if you prevail for a time, this sets you up for what I call the aging champion syndrome. Eventually someone will come along that you can’t stop. He’ll be quicker or smarter or more determined than you in some way, and you’ll soon find yourself lying flat on your back, knocked out of the match, staring up at the ref while he shouts out the 10-count, wondering why no one listens to you anymore.
 
-
+<div class="alignleft">
+     <script type="text/javascript">
+       	amzn_assoc_ad_type = "banner";
+	amzn_assoc_marketplace = "amazon";
+	amzn_assoc_region = "US";
+	amzn_assoc_placement = "assoc_banner_placement_default";
+	amzn_assoc_campaigns = "electronics";
+	amzn_assoc_banner_type = "rotating";
+	amzn_assoc_p = "12";
+	amzn_assoc_width = "300";
+	amzn_assoc_height = "250";
+	amzn_assoc_tracking_id = "sateeshmach-20";
+	amzn_assoc_linkid = "92a87b838a9b76e65d39f7c21539ac16";
+     </script>
+     <script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1"></script>
+    </div>
