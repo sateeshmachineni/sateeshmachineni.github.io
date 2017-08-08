@@ -4,7 +4,6 @@ title: How to Learn TSQL
 tags: [sqlserver]
 ---
 
-<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=12&l=ur1&category=wireless&banner=1FDPWVD9KFPS2JV7CV82&f=ifr&linkID=ae3d6983b9617d459f021c2fb191aa96&t=sateeshmach-20&tracking_id=sateeshmach-20" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
 I get this question many times,so thought of creating a post about how i learned ..
 
