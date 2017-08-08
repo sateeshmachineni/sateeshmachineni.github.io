@@ -11,10 +11,9 @@ I am Currently working as MS SQL DBA with 3.7 years experience in a reputed comp
    
 This Blog is mostly about documenting things i find interesting for futureself.  I am also  available for Hire/short term contracts,so shoot me an email if you need me,you   can also  download my [resume]({{ site.url }}/Sateesh Machineni_Resume.docx)
    
-I am not a big believer in certifications,but i  completed below certification..
+I am Microsoft Certified Professional in certifications
    
   
-<br/>
 <br/>
 
 <img src="/img/certification.png" alt=" " title="70-461 certifications" style="max-width:300px; 
