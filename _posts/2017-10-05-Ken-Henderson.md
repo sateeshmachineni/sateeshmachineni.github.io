@@ -4,7 +4,7 @@ title: Ken Henderson
 tags: [random]
 ---
 
-<script type="text/javascript"> amzn_assoc_ad_type = "banner"; amzn_assoc_marketplace = "amazon"; amzn_assoc_region = "US"; amzn_assoc_placement = "assoc_banner_placement_default"; amzn_assoc_campaigns = "electronics"; amzn_assoc_banner_type = "rotating"; amzn_assoc_p = "12"; amzn_assoc_width = "300"; amzn_assoc_height = "250"; amzn_assoc_tracking_id = "sateeshmach-20"; amzn_assoc_linkid = "92a87b838a9b76e65d39f7c21539ac16"; </script> <script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1"></script> 
+
 
 
 I was trying to setup windbg to explore more about SQLServer internals.My search lead me to this book ,[The Guru's Guide to SQL Server Architecture and Internals](http://www.amazon.in/Gurus-Guide-Server-Architecture-Internals/dp/0201700476/ref=asap_bc?ie=UTF8)...I was amazed about the quality of the content
