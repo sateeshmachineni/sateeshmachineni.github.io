@@ -11,12 +11,9 @@ I am Currently working as MS SQL DBA with 3.7 years experience in a reputed comp
    
 This Blog is mostly about documenting things i find interesting for futureself.  I am also  available for Hire/short term contracts,so shoot me an email if you need me,you   can also  download my [resume]({{ site.url }}/Sateesh Machineni_Resume.docx)
    
-I am Microsoft Certified Professional 
-   
-  
-<br/>
+I am Microsoft Certified Professional     
 
-<img src="/img/certification.png" alt=" " title="70-461 certifications" style="max-width:300px; 
+ <img src="/img/certification.png" alt=" " title="70-461 certifications" style="max-width:300px; 
 height:auto; max-height:300px;" />  
 
 <br/>
@@ -32,4 +29,4 @@ My online presence..<br/>
 
 <br/>
 
-<a href="https://github.com/sateeshmachineni"><img src="/img/blacktocat.png" alt="View Sateesh Machineni's profile on GitHub" style="max-width:208px; height:auto; max-height:100px;" /></a>
+<a href="https://github.com/sateeshmachineni"><img src="/img/blacktocat.png" alt="View Sateesh Machineni's profile on GitHub" style="max-width:208px; height:auto; max-height:100px;" align="right"  /></a>
