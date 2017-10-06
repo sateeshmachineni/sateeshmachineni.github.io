@@ -13,7 +13,7 @@ Below is sample data which is just a numbers table.If you are not aware of what 
 
 data looks like this
 
-<img  src="/img/numbers.png"/>
+<img  src="/img/numbers.PNG"/>
 
 Say we want to calculate average for this data .Expected output should be something like below
 
