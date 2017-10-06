@@ -4,11 +4,9 @@ title: Calculate moving averages
 tags: [sqlserver]
 ---
 
-Today i learnt a new way to calculate Moving averages and it is quite simple with Window Functions Frame clauses.
+Today i learnt a new way to calculate Moving averages and it is quite simple with Window Functions Frame clauses.Thanks to [Itzik Ben-Gan](http://tsql.solidq.com/about/).
 
-Thanks to [Itzik Ben-Gan](http://tsql.solidq.com/about/).
-
-Below is sample data which is just a numbers table.If you are not aware of what is numbers table..Check this post 
+Below is sample data which is just a numbers table.If you are not aware of what is numbers table..Check out this post 
 [Why are numbers tables “invaluable”?](https://dba.stackexchange.com/questions/11506/why-are-numbers-tables-invaluable)
 
 data looks like this
