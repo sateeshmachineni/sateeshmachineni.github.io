@@ -7,7 +7,7 @@ Welcome to My Blog !.<br/>
 
  
  
-I am Currently working as MS SQL DBA with 3.7 years experience in a reputed company.I love writing TSQL queries and i also love making them run faster.My primary areas of focus are HA technologies,Query tuning..
+I am Currently working as MS SQL DBA with 6 plus yearsof  experience in a reputed company.I love writing TSQL queries and i also love making them run faster.My primary areas of focus are HA technologies,Query tuning..
    
 This Blog is mostly about documenting things i find interesting for futureself.  I am also  available for Hire/short term contracts,so shoot me an email if you need me,you   can also  download my [resume]({{ site.url }}/Sateesh Machineni_Resume.docx)
    
