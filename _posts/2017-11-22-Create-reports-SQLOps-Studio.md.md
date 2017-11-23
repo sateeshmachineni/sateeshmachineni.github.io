@@ -85,7 +85,7 @@ You will be presented with  JSON.If you want to know more about JSON [click here
 
  <img  src="/img/Settings.png"/>
  
- Now type Database in settings search tab and hover mouse over `dashboard.database.widgets`  and click EDIT as shown below
+ Now type Database in settings search tab and hover mouse over `dashboard.database.widgets`(You also can paste on server widgets for a server dashboard)  and click EDIT as shown below
  
 
  <img  src="/img/databasewidgets.png"/>
@@ -98,6 +98,8 @@ You will be presented with  JSON.If you want to know more about JSON [click here
  <img  src="/img/insights.png"/>
  
  
+ 
+ Thanks for reading 
  
  
  
