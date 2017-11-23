@@ -43,7 +43,7 @@ HAVING SUM(W2.pct) - W1.pct < 95
  
  Now create insight by clicking view charts and create insight as shown below
  
- 
+ <img  src="/img/output_CarRyl.gif"/>
  
  Finally you will be presented with below screen ,which is JSON.IF you want to know more about JSON [click here](https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/)
  
@@ -78,16 +78,16 @@ HAVING SUM(W2.pct) - W1.pct < 95
  
  Now press <kbd>CTRL+SHIFT+P</KBD> and type User Settings as shown below
  
- <img  src="/img/output_CarRyl.gif"/>
- 
+
+ <img  src="/img/Settings.png"/>
  
  Now type Database in settings search tab and hover mouse over `dashboard.database.widgets`  and click EDIT as shown below
  
- <img  src="/img/Settings.png"/>
+
+ <img  src="/img/databasewidgets.png"/>
  
  Copy the Insights in the settings and save it
  
- <img  src="/img/databasewidgets.png"/>
  
  You can view the widget by right clicking the database and clicking on manage.Below is my Widget
  
