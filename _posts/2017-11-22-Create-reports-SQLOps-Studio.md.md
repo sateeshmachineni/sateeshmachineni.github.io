@@ -5,7 +5,7 @@ tags: [sqlserver]
 ---
 
 
-Microsoft released SQL Operations studio for Mac,Linux and Windows.This editor is highly configurable,one particular thing caught my attention was creating Insights.. you can think of this as SSMS Inbuilt reports..
+Microsoft released [SQL Operations studio](https://docs.microsoft.com/en-us/sql/sql-operations-studio/download) for Mac,Linux and Windows.This editor is highly configurable,one particular thing caught my attention was creating Insights.. you can think of this as SSMS Inbuilt reports..
 
 Let's see how we can create a new Insight using OpsStudio..
 
@@ -50,7 +50,7 @@ HAVING SUM(W2.pct) - W1.pct < 95
  
  <img  src="/img/output_CarRyl.gif"/>
  
- Finally you will be presented with below screen ,which is JSON.IF you want to know more about JSON [click here](https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/)
+ Finally you will be presented with below screen ,which is JSON.If you want to know more about JSON [click here](https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/)
  
  Below is the JSON i have,you can change size and name of widget as per your wish.I have changed mine to below
  
