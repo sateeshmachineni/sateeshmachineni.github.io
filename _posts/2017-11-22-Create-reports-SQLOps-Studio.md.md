@@ -67,12 +67,11 @@ You will be presented with  JSON.If you want to know more about JSON [click here
             "type": {
                 "horizontalBar": {
                     "dataDirection": "vertical",
-                    "dataType": "point",
+                    "dataType": "number",
                     "legendPosition": "none",
                     "labelFirstColumn": false,
-                    "columnsAsLabels": false,
-                    "encoding": "hex",
-                    "imageFormat": "jpeg"
+                    "columnsAsLabels": false
+                   
                 }
             },
             "queryFile": "c:\\sqlops-windows-0.23.6\\Queries\\waitstats.sql"
