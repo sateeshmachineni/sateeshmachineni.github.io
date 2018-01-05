@@ -1,6 +1,17 @@
 body {
 background-color: #9c9f84;
   margin:50px;
-  font-family:Calibri;
+ 
+}
+
+#main1
+{
+font-family:Calibri;
+  font-size=25px;
+}
+
+#main2
+{
+ font-family:Calibri;
   font-size=15px;
 }
