@@ -27,7 +27,7 @@ select * from cte where rownum=1
 For the above query to work effectively, you will need to have a POC index.so i created one like below
 
 ```sql
-create index nci_order1 on orderstest(custid,empid,orderdate)
+create index nci_order1 on orderstest(empid,custid,orderdate)
 ```
 
 <b>Imagine</b> you have created a wrong index at first,like below..
