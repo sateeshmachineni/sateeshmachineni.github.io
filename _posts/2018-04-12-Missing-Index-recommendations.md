@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Missing index recommendations 
+title: Don't trust missing index recommendations blindly
 tags: [sqlserver]
 ---
 
