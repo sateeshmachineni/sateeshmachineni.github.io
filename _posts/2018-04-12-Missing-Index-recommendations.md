@@ -10,7 +10,7 @@ download [performancev3](http://tsql.solidq.com/resources/) sample database from
 <b>Some Context</b>     
 You have 2 million rows in an order table and you need to get first order for each customer  and you need to filter it by employee
 
-so below is the query i have 
+so below is the query i wrote to achieve that 
 
 ```sql
 ;with cte
@@ -30,7 +30,7 @@ For the above query to work effectively, you will need to have a POC index.so i 
 create index nci_order1 on orderstest(custid,empid,orderdate)
 ```
 
-Imagine you have created a wrong index at first,like below..
+<b>Imagine</b> you have created a wrong index at first,like below..
 
 ```sql
 create index nci_order1 on orderstest(custid,empid,orderdate)
