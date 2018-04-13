@@ -7,7 +7,7 @@ tags: [sqlserver]
 Missing index recommendations should be not blindly trusted,even for a single query..Below is a small issue i faced today..You need to run
 download performancev3 sample database from Itzik Ben-Gan to follow  below example..
 
-<b>Some Context</b>
+<b>Some Context</b>     
 You have 2 million rows in an order table and you need to get first order for each customer  and you need to filter it by employee
 
 so below is the query i have 
