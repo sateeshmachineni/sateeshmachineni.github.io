@@ -12,6 +12,8 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 ## Here is a secondary heading
 
+<script src="https://gist.github.com/sateeshmachineni/304363e050c0ebb44e58b76239a493da.js"></script>
+
 Here's a useless table:
  
 | Number | Next number | Previous number |
